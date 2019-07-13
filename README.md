@@ -5,6 +5,7 @@ A fictional company that offers hotel rooms, services and etc.
 ## Built with:
 - HTML5
 - CSS3
+
 ![HBS Screenshot](img/screenshot.png "HBS Screenshot")
 
 Visit the [live preview](https://genesisgabiola.github.io/hbs/).
